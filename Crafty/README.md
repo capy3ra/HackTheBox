@@ -12,4 +12,7 @@
 
 4. Còn port 25565 có ghi là đang chạy dịch vụ Minecraft Server khá là khả nghi
 5. Search lỗ hổng liên quan đến dịch vụ chạy trên port này với key word như: `vulnerable in minecraft server 1.16.5` -> các kết quả dẫn đến: Lỗ hổng Log4j trên Minecraft: Java edition với mã CVE-2021-44228
-6. 
+6. Đọc tài liệu của VCS-TI phân tích mã CVE này [Ref](https://blog.viettelcybersecurity.com/cve-2021-44228-lo-hong-nghiem-trong-tren-thu-vien-apache-log4j-va-cac-van-de-lien-quan/)
+7. Kiếm [POC](https://github.com/kozmer/log4j-shell-poc) của CVE
+8. Đọc readme để poc có thể chạy như tải jdk8u20...
+9. 
